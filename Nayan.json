@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "KAUS4R-BOT",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "KAUS4R-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
-    "100000959749712"
+    "100068506538202"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100068506538202",
     ""
   ],
   "OWNER": ["100000959749712"], 
